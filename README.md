@@ -7,7 +7,7 @@ The encoder is a fairly standard <a href="https://arxiv.org/abs/2010.11929">ViT<
 ## Install
 
 ```bash
-$ pip install -e .
+$ pip install -r requirements.txt
 ```
 
 ## Usage
