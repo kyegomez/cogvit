@@ -1,5 +1,3 @@
-<img src="./cogvit.png" width="450px"></img>
-
 ## CogViT — Pytorch
 
 Implementation of <a href="https://arxiv.org/abs/2604.26752">CogViT</a>, the parameter-efficient vision encoder from <em>GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents</em>, in Pytorch. A single-file, self-contained reference build of the §2.1 vision tower, the MLP adapter that bridges into the language backbone, and both pretraining stages (DMIM distillation and SigLIP contrastive).
